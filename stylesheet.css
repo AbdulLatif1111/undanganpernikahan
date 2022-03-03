@@ -1,5 +1,5 @@
 body {
-  font-family: Didot;
+  font-family: "Lucida-Bright";
 }
 
 li {
@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #FFE4C4;
+  background-color: #D2691E;
   color: #000;
   height: 90px;
 }
@@ -15,6 +15,7 @@ li {
 .header-logo {
   font-size: 36px;
   padding: 20px 40px;
+  font-family: "Lucida-Bright";
 }
 
 .main {
@@ -24,18 +25,21 @@ li {
 
 .copy-container h2 {
   font-size: 60px;
+  font-family: "Lucida-Bright";
 }
 
 .copy-container h3 {
   font-size: 60px;
+  font-family: "Lucida-Bright";
 }
 
 .copy-container h4 {
   font-size: 60;
+  font-family: "Lucida-Bright";
 }
 
 .contents {
-  height: 500px;
+  height: 400px;
   margin-top: 100px;
 }
 
@@ -49,16 +53,18 @@ width: 200px;
 }
 
 .footer {
-  background-color: #FFE4C4;
+  background-color: #D2691E;
   color: #000;
-  height: 120px;
+  height: 80px;
   padding: 40px;
 }
 
 .footer-logo {
   font-size: 32px;
+  font-family: "Lucida-Bright";
 }
 
 .footer-list li {
   padding-bottom: 20px;
+  font-family: "Lucida-Bright";
 }
