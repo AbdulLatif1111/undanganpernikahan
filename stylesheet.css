@@ -13,7 +13,6 @@ li {
 }
 
 .header-logo {
-  float: left;
   font-size: 36px;
   padding: 20px 40px;
 }
@@ -41,7 +40,6 @@ li {
 }
 
 .contents-item {
-  float: left;
   margin-right: 40px;
 }
 
@@ -58,12 +56,7 @@ width: 200px;
 }
 
 .footer-logo {
-  float: left;
   font-size: 32px;
-}
-
-.footer-list {
-  float: left;
 }
 
 .footer-list li {
